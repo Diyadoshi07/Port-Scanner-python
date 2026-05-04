@@ -45,9 +45,13 @@ Scan Complete!
 Open Ports: [21, 22, 80]
 Time taken: 5.32 seconds
 
+---
+
 ⚠️ Disclaimer
 
 This tool is for educational purposes only. Do not use it to scan systems without proper authorization.
+
+---
 
 👩‍💻 Author
 Diya
